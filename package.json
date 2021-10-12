@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@babel/core": "^7.15.5",
+    "@headlessui/react": "^1.4.1",
+    "@heroicons/react": "^1.0.4",
     "@types/next": "^9.0.0",
     "@types/react": "^17.0.24",
     "@zeit/next-typescript": "^1.1.1",

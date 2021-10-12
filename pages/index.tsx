@@ -1,9 +1,12 @@
 import React from "react"
+import Navbar from "../src/components/navbar"
+import Home from "./home"
 
-export default function Home() {
+export default function App() {
   return (
-    <div>
-      <h1>My name is Anurag</h1>
+    <div className="bg-black h-screen">
+      <Navbar />
+      <Home />
     </div>
   )
 }
